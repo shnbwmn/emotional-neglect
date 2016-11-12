@@ -7,7 +7,7 @@ Create a [pull request](https://github.com/shnbwmn/emotional-neglect/pulls) to a
 
 ### Webpages
 
-* [About emotional neglect](http://www.drjonicewebb.com/about-emotional-neglect/)
+* [About emotional neglect](http://www.drjonicewebb.com/about-emotional-neglect/) - Dr. Jonice Webb
 * [The invisible power of childhood emotional neglect](https://www.psychologytoday.com/blog/stop-walking-eggshells/201308/the-invisible-power-childhood-emotional-neglect)
 
 ### Youtube
