@@ -1,2 +1,6 @@
-# emotional-neglect
-Resources related to Emotional Neglect
+
+# Emotional Neglect
+
+> Resources related to Emotional Neglect.
+
+
