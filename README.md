@@ -3,6 +3,8 @@
 
 > Resources related to Emotional Neglect.
 
+Create a [pull request](https://github.com/shnbwmn/emotional-neglect/pulls) to add links | Start an [issue](https://github.com/shnbwmn/emotional-neglect/issues) for discussions | [Contribution Guidelines](https://github.com/shnbwmn/emotional-neglect/blob/master/Contribute.md)
+
 ### Webpages
 
 * [About emotional neglect](http://www.drjonicewebb.com/about-emotional-neglect/)
