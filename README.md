@@ -27,6 +27,3 @@ Create a [pull request](https://github.com/shnbwmn/emotional-neglect/pulls) to a
 
 To the extent possible under law, Shane Bowman has waived all copyright and related or neighbouring rights to this work.
 
-
-
-test
